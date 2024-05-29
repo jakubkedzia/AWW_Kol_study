@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AWWW_Kol1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AWWW_Kol1.props",
+      "PackagePath": "build\\AWWW_Kol1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AWWW_Kol1.props",
+      "PackagePath": "buildMultiTargeting\\AWWW_Kol1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AWWW_Kol1.props",
+      "PackagePath": "buildTransitive\\AWWW_Kol1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

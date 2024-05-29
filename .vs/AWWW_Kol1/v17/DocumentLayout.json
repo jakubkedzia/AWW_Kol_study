@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\awww_kol1\\awww_kol1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\awww_kol1\\awww_kol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\awww_kol1\\awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\appsettings.json",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\appsettings.json",
+              "RelativeToolTip": "AWWW_Kol1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T18:08:47.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\Program.cs",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\Program.cs",
+              "RelativeToolTip": "AWWW_Kol1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:03:57.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\DataBase.cs",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\DataBase.cs",
+              "RelativeToolTip": "AWWW_Kol1\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:03:02.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AWWW_Kol1.props" />
+</Project>
