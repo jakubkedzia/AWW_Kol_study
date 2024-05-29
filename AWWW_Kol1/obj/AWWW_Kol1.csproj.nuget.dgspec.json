@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\AWWW_Kol1.csproj": {}
+    "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\AWWW_Kol1.csproj": {
+    "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\AWWW_Kol1.csproj",
+        "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
         "projectName": "AWWW_Kol1",
-        "projectPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\AWWW_Kol1.csproj",
+        "projectPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
         "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\obj\\",
+        "outputPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,7 +6,6 @@ namespace AWWW_Kol1.Controllers
 	{
 		public IActionResult Index()
 		{
-			@ViewBag.Title = "Strona glowna";
 			return View();
 		}
 	}
