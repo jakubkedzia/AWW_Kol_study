@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "k5dJ0H9odf16lfZa/UECfJJdCr9rviTlPpCPXg5ykVKPJXxyZLw2YLZyY+fSPuT8z8F62KYnUPAl6k6coqvLEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
+=======
+  "dgSpecHash": "i1l7J47oHvWjyd7GUG/HR8XI6iTndN+qJUUT3fALqwqI7Biyye2FOhGTBBuHt2UsKNbW/BxtPl6jtkWJpvMFeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [
     "C:\\Users\\Ryzen\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Ryzen\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

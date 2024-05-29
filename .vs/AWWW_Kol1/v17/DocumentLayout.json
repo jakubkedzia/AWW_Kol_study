@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\",
   "Documents": [
     {
@@ -24,6 +25,28 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study_clone\\aww_kol_study\\awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,6 +62,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
@@ -47,12 +71,23 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-29T18:20:25.047Z",
+=======
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AWWW_Kol1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:22:04.167Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
+<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Views\\Home\\Index.cshtml",
@@ -60,11 +95,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-29T18:20:15.091Z",
+=======
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T18:22:00.648Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AWWW_Kol1\\Controllers\\HomeController.cs",
@@ -82,6 +127,12 @@
               "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\appsettings.json",
               "RelativeDocumentMoniker": "AWWW_Kol1\\appsettings.json",
               "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\appsettings.json",
+=======
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\appsettings.json",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\appsettings.json",
+>>>>>>> Stashed changes
               "RelativeToolTip": "AWWW_Kol1\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -90,11 +141,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Program.cs",
               "RelativeDocumentMoniker": "AWWW_Kol1\\Program.cs",
               "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Program.cs",
+=======
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Program.cs",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Program.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "AWWW_Kol1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +161,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 5,
               "Title": "DataBase.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\DataBase.cs",
               "RelativeDocumentMoniker": "AWWW_Kol1\\DataBase.cs",
               "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\DataBase.cs",
+=======
+              "DocumentIndex": 4,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\DataBase.cs",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\DataBase.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "AWWW_Kol1\\DataBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
