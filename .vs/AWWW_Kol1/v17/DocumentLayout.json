@@ -1,52 +1,61 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
-  "WorkspaceRootPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\",
+  "WorkspaceRootPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study_clone\\aww_kol_study\\awww_kol1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\league\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\league\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\author\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\author\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\tag\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\tag\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study_clone\\aww_kol_study\\awww_kol1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\controllers\\leaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\controllers\\leaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study_clone\\aww_kol_study\\awww_kol1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\category\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\category\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study_clone\\aww_kol_study\\awww_kol1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study_clone\\aww_kol_study\\awww_kol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\article\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\article\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study_clone\\aww_kol_study\\awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_kol_study\\awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> Stashed changes
+      "AbsoluteMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|c:\\users\\ryzen\\desktop\\kol1_c#\\aww_1\\aww_1\\awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{091D6599-E9E7-4F5C-B419-93266E829155}|AWWW_Kol1\\AWWW_Kol1.csproj|solutionrelative:awww_kol1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -56,128 +65,190 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 247,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 333,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-<<<<<<< Updated upstream
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "DocumentIndex": 3,
+              "Title": "Dodaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\League\\Dodaj.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\League\\Dodaj.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\League\\Dodaj.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\League\\Dodaj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T18:20:25.047Z",
-=======
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AWWW_Kol1\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "WhenOpened": "2024-05-31T16:16:19.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\League\\Index.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\League\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\League\\Index.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\League\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T16:16:14.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeagueController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Controllers\\LeagueController.cs",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Controllers\\LeagueController.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Controllers\\LeagueController.cs",
+              "RelativeToolTip": "AWWW_Kol1\\Controllers\\LeagueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T18:22:04.167Z",
->>>>>>> Stashed changes
+              "WhenOpened": "2024-05-31T16:11:08.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dodaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Tag\\Dodaj.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Tag\\Dodaj.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Tag\\Dodaj.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Tag\\Dodaj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T16:04:22.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Tag\\Index.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Tag\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Tag\\Index.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Tag\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T16:04:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Controllers\\TagController.cs",
+              "RelativeToolTip": "AWWW_Kol1\\Controllers\\TagController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:01:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dodaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Article\\Dodaj.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Article\\Dodaj.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Article\\Dodaj.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Article\\Dodaj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T15:57:55.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T15:54:53.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Author\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T15:52:56.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dodaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Author\\Dodaj.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Author\\Dodaj.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Author\\Dodaj.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Author\\Dodaj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T15:52:54.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-<<<<<<< Updated upstream
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AWWW_Kol1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T18:20:15.091Z",
-=======
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AWWW_Kol1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "WhenOpened": "2024-05-31T15:49:58.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dodaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Category\\Dodaj.cshtml",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Views\\Category\\Dodaj.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Views\\Category\\Dodaj.cshtml",
+              "RelativeToolTip": "AWWW_Kol1\\Views\\Category\\Dodaj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T18:22:00.648Z",
->>>>>>> Stashed changes
+              "WhenOpened": "2024-05-31T15:49:35.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-<<<<<<< Updated upstream
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AWWW_Kol1\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T18:19:53.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\appsettings.json",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\appsettings.json",
-=======
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\appsettings.json",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\appsettings.json",
->>>>>>> Stashed changes
-              "RelativeToolTip": "AWWW_Kol1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-29T18:08:47.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Program.cs",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\Program.cs",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\Program.cs",
-=======
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Program.cs",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\Program.cs",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\Program.cs",
->>>>>>> Stashed changes
-              "RelativeToolTip": "AWWW_Kol1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T18:03:57.571Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\DataBase.cs",
               "RelativeDocumentMoniker": "AWWW_Kol1\\DataBase.cs",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\DataBase.cs",
-=======
-              "DocumentIndex": 4,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\DataBase.cs",
-              "RelativeDocumentMoniker": "AWWW_Kol1\\DataBase.cs",
-              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\DataBase.cs",
->>>>>>> Stashed changes
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\DataBase.cs",
               "RelativeToolTip": "AWWW_Kol1\\DataBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T18:03:02.055Z"
+              "WhenOpened": "2024-05-31T15:49:26.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AWWW_Kol1\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AWWW_Kol1\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:46:22.86Z",
+              "EditorCaption": ""
             }
           ]
         }

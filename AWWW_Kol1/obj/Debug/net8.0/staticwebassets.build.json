@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SN5j8ru+m/JiZW+ad7vvIH/lP8A/B6gxouAX//UE788=",
+  "Hash": "zv05e8yySa+4p4srvGOJaFFWpbh2k5kwPrwWsm0Puag=",
   "Source": "AWWW_Kol1",
   "BasePath": "_content/AWWW_Kol1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AWWW_Kol1\\wwwroot",
       "Source": "AWWW_Kol1",
-      "ContentRoot": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\wwwroot\\",
       "BasePath": "_content/AWWW_Kol1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\wwwroot\\css\\site.css",
       "SourceId": "AWWW_Kol1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWWW_Kol1\\AWWW_Kol1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\wwwroot\\",
       "BasePath": "_content/AWWW_Kol1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",

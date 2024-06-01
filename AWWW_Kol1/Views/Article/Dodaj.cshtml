@@ -1,0 +1,18 @@
+﻿@model AWWW_Kol1.Models.Article
+
+<h1>Dodaj artykuł</h1>
+<form method="post" asp-controller="Article" asp-action="DodajArtykul">
+	<label asp-for="Title">Title</label>
+	<input asp-for="Title" />
+	<br />
+	<label asp-for="Lead">Krotki opis</label>
+	<input asp-for="Lead" />
+	<br />
+	<label asp-for="Content">Content</label>
+	<input asp-for="Content" />
+	<br />
+	<label asp-for="CreationDate">Creation Date</label>
+	<input asp-for="CreationDate" />
+	<br />
+	<input type="submit" value="Dodaj artykul">
+</form>

@@ -1,0 +1,19 @@
+﻿@model IList<AWWW_Kol1.Models.Tag>
+<h1>@ViewBag.Title</h1>
+<a asp-controller="Tag" asp-action="Dodaj"><button>Dodaj tag</button></a>
+<table>
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+	</tr>
+	@if(Model != null)
+	{
+		@foreach(var tag in @Model)
+		{
+			<tr>
+				<td>@tag.TagId</td>
+				<td>@tag.Name</td>
+			</tr>
+		}
+	}
+</table>

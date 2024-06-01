@@ -1,0 +1,9 @@
+﻿@model AWWW_Kol1.Models.Tag
+
+<h1>Dodaj tag</h1>
+<form method="post" asp-controller="Tag" asp-action="DodajTag">
+	<label asp-for="Name">Name</label>
+	<input asp-for="Name" />
+	<br />
+	<input type="submit" value="Dodaj tag" />
+</form>

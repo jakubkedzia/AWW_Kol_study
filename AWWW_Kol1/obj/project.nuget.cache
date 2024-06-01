@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-  "dgSpecHash": "k5dJ0H9odf16lfZa/UECfJJdCr9rviTlPpCPXg5ykVKPJXxyZLw2YLZyY+fSPuT8z8F62KYnUPAl6k6coqvLEg==",
+  "dgSpecHash": "7G1oe3nKuFSMGsulvyLroAro4HQ516KecqQItNF5I0OLJmOllrlDLAnaFMNCyohOJ8cZC7NZMBeUxmA/rQ4VNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
-=======
-  "dgSpecHash": "i1l7J47oHvWjyd7GUG/HR8XI6iTndN+qJUUT3fALqwqI7Biyye2FOhGTBBuHt2UsKNbW/BxtPl6jtkWJpvMFeA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
->>>>>>> Stashed changes
+  "projectFilePath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\AWWW_Kol1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ryzen\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Ryzen\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
@@ -90,5 +84,12 @@
     "C:\\Users\\Ryzen\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Ryzen\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Wystąpił problem podczas czytania pliku pamięci podręcznej C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

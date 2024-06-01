@@ -1,0 +1,24 @@
+﻿@model IList<AWWW_Kol1.Models.Leauge>
+
+<h1>Ligi</h1>
+<a asp-controller="League" asp-action="Dodaj"><button>Dodaj lige</button></a>
+<table>
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Country</th>
+		<th>Level</th>
+	</tr>
+	@if(@Model != null)
+	{
+		@foreach(var league in @Model)
+		{
+			<tr>
+				<td>@league.LeaugeId</td>
+				<td>@league.Name</td>
+				<td>@league.Country</td>
+				<td>@league.Level</td>
+			</tr>
+		}
+	}
+</table>

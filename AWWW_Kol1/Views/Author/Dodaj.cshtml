@@ -1,0 +1,12 @@
+﻿@model AWWW_Kol1.Models.Author
+
+<h1>Dodaj Autora:</h1>
+<form method="post" asp-controller="Author" asp-action="DodajAutora">
+	<label asp-for="FirstName">FirstName</label>
+	<input asp-for="FirstName" />
+	<br />
+	<label asp-for="LastName">LastName</label>
+	<input asp-for="LastName" />
+	<br />
+	<input type="submit" value="Dodaj autora" />
+</form>

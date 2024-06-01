@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AWWW_Kol1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+027ee9112ded9db66620c73268b822213d23fb6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a1a9c4258329ecb11018607587f6e9c5ae3e7db")]
 [assembly: System.Reflection.AssemblyProductAttribute("AWWW_Kol1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AWWW_Kol1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

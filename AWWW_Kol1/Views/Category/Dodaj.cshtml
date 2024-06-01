@@ -1,0 +1,9 @@
+﻿@model AWWW_Kol1.Models.Category
+
+<h1>Dodaj kategorie</h1>
+<form method="post" asp-controller="Category" asp-action="DodajKategorie">
+	<label asp-for="Name">Name</label>
+	<input asp-for="Name" />
+	<br />
+	<input type="submit" value="Dodaj kategorie" />
+</form>

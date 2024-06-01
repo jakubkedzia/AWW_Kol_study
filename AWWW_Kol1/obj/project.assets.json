@@ -4204,19 +4204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-      "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
+      "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\AWWW_Kol1.csproj",
       "projectName": "AWWW_Kol1",
-      "projectPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
+      "projectPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\AWWW_Kol1.csproj",
       "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study_clone\\AWW_Kol_study\\AWWW_Kol1\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
-      "projectName": "AWWW_Kol1",
-      "projectPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\AWWW_Kol1.csproj",
-      "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_Kol_study\\AWWW_Kol1\\obj\\",
->>>>>>> Stashed changes
+      "outputPath": "C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4295,5 +4287,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Wystąpił problem podczas czytania pliku pamięci podręcznej C:\\Users\\Ryzen\\Desktop\\Kol1_C#\\AWW_1\\AWW_1\\AWWW_Kol1\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

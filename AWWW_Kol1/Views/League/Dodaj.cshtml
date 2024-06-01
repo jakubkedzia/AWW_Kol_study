@@ -1,0 +1,15 @@
+﻿@model AWWW_Kol1.Models.Leauge
+
+<h1>Dodaj lige</h1>
+<form method="post" asp-controller="League" asp-action="DodajLige">
+	<label asp-for="Name">Name</label>
+	<input asp-for="Name" />
+	<br />
+	<label asp-for="Country">Country</label>
+	<input asp-for="Country" />
+	<br />
+	<label asp-for="Level">Level</label>
+	<input asp-for="Level" />
+	<br />
+	<input type="submit" value="Dodaj lige" />
+</form>

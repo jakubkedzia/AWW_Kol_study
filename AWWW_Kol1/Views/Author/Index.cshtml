@@ -1,0 +1,22 @@
+﻿@model IList<AWWW_Kol1.Models.Author>
+
+<h1>Autorzy</h1>
+<a asp-controller="Author" asp-action="Dodaj"><button>Dodaj autora</button></a>
+<table>
+	<tr>
+		<th>Id</th>
+		<th>First Name:</th>
+		<th>LastName:</th>
+	</tr>
+	@if(@Model != null)
+	{
+		@foreach (var author in @Model)
+		{
+			<tr>
+				<td>@author.AuthorId</td>
+				<td>@author.FirstName</td>
+				<td>@author.LastName</td>
+			</tr>
+		}
+	}
+</table>
